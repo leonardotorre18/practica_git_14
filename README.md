@@ -1,1 +1,13 @@
-# practica_git_14
+# Lista de Colaboradores
+
+1.
+
+2.
+
+3.
+
+4.
+
+5.
+
+6.
