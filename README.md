@@ -1,6 +1,6 @@
 # Lista de Colaboradores
 
-1.
+1.Daniel
 
 2. Pablo
 
