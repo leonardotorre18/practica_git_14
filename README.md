@@ -2,12 +2,12 @@
 
 1.Daniel
 
-2.
+2. Pablo
 
-3.
+3.Josue
 
-4.
+4.Ricardo
 
-5.
+5.Manuel Quintero
 
 6. Gilberto 
